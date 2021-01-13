@@ -1,3 +1,4 @@
+git status
 git add .
-git commit -m "Task 1. Add who is saying 'hello'."
+git commit -m "Task 2. Changes to be more inclusive."
 git push -u origin master
